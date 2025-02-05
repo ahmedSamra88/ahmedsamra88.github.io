@@ -1,5 +1,5 @@
-import  '../node_modules/bootstrap/dist/js/bootstrap.js';
-import  '../node_modules/@glidejs/glide/dist/glide.min.js';
+import  'https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js';
+import  'https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.6.0/glide.min.js';
 // diploma_glide
 new Glide('.diploma_glide',{
     type: 'carousel',
