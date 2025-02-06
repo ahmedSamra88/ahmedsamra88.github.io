@@ -37,7 +37,7 @@ body{
 }
 @media screen and (max-width:700px){
     .carousel .overlay .content h2{
-        font-size: 28px;
+        font-size: 25px;
     }
 }
 .carousel .overlay .content{
