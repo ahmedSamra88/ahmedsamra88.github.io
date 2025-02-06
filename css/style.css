@@ -148,6 +148,7 @@ body{
 .footer{
     padding-top: 50px;
     padding-bottom: 50px;
+    text-align:right;
 }
 .footer a,.footer h3{
     background: none !important;
