@@ -39,6 +39,9 @@ body{
     .carousel .overlay .content h2{
         font-size: 25px;
     }
+    .register-login{
+        justify-content:center;
+    }
 }
 .carousel .overlay .content{
     font-size: 16px;
