@@ -46,6 +46,9 @@ body{
     .register-login{
         justify-content:center !important;
     }
+    .footer{
+        text-align:center;
+    }
 }
 .carousel .overlay .content{
     font-size: 16px;
