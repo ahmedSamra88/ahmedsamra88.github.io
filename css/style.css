@@ -23,14 +23,14 @@ body{
     right: 0;
 }
 .carousel .overlay{
-    background-image:linear-gradient(rgba(255,255,255,0.7) 2%,rgba(0,200,202,1)) ;
+    background-image:linear-gradient(rgba(255,255,255,0.8) 2%,rgba(0,162,163,1)) ;
     align-items: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 .services{
-    background-color:rgba(0,200,202,1) ;
+    background-color:rgba(0,162,163,1) ;
   
 }
 .carousel .overlay .content{
@@ -181,13 +181,13 @@ body{
 }
 /* #F29651 */
 .s-bg-color{
-    background-color:#00C8CA;
+    background-color:#00A2A3;
 }
 .s-border-color{
-    border-color: #00C8CA;
+    border-color: #00A2A3;
 }
 .s-text-color{
-    color: #00C8CA;
+    color: #00A2A3;
 }
 .bg-dark{
     background-color: #2c2c2c;
