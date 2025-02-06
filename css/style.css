@@ -23,11 +23,15 @@ body{
     right: 0;
 }
 .carousel .overlay{
-    background-image:linear-gradient(rgba(245,131,78,0.9),rgba(0,0,0,0.4)) ;
+    background-image:linear-gradient(rgba(255,255,255,0.7) 2%,rgba(245,131,78,1)) ;
     align-items: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+.services{
+    background-color:rgba(245,131,78,1) ;
+  
 }
 .carousel .overlay .content{
     z-index: 1000;
