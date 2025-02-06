@@ -37,11 +37,11 @@ body{
     z-index: 1000;
 }
 .carousel .overlay .content h2{
-    font-size: 48px;
+    font-size: 28px;
 }
 @media screen and (max-width:700px){
     .carousel .overlay .content h2{
-        font-size: 25px;
+        font-size: 18px;
     }
     .register-login{
         justify-content:center !important;
@@ -51,8 +51,7 @@ body{
     }
 }
 .carousel .overlay .content{
-    font-size: 16px;
-    font-weight: 400;
+    font-size: 15px;
 }
 /* end header satyle */
 /* services */
